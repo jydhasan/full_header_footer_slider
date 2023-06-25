@@ -1,0 +1,8 @@
+/.vscode
+/app.py
+/instance
+/myenv
+/quiz.py
+/static
+/templates
+/__pycache__
